@@ -126,7 +126,7 @@ export default function Header({
                 </a>
 
                 <a
-                  href="https://wa.me/529221589055"
+                  href="https://wa.me/529221589055?text=Hola%2C%20Coraz%C3%B3n%20de%20Vainilla.%20Me%20gustar%C3%ADa%20hacer%20un%20pedido%20y%20recibir%20informaci%C3%B3n%20sobre%20sus%20productos."
                   target="_blank"
                   rel="noopener noreferrer"
                   className="social-icon-link"
@@ -246,7 +246,7 @@ export default function Header({
               <InstagramIcon size={28} />
             </a>
             <a
-              href="https://wa.me/529221589055"
+              href="https://wa.me/529221589055?text=Hola%2C%20Coraz%C3%B3n%20de%20Vainilla.%20Me%20gustar%C3%ADa%20hacer%20un%20pedido%20y%20recibir%20informaci%C3%B3n%20sobre%20sus%20productos."
               target="_blank"
               rel="noopener noreferrer"
               className="social-icon-link"
@@ -258,7 +258,7 @@ export default function Header({
 
           <div>
             <a
-              href="https://wa.me/529221589055"
+              href="https://wa.me/529221589055?text=Hola%2C%20Coraz%C3%B3n%20de%20Vainilla.%20Me%20gustar%C3%ADa%20hacer%20un%20pedido%20y%20recibir%20informaci%C3%B3n%20sobre%20sus%20productos."
               target="_blank"
               rel="noopener noreferrer"
               className="mobile-whatsapp-number"

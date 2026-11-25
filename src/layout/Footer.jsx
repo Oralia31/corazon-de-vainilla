@@ -144,7 +144,7 @@ export default function Footer({ onNavigate }) {
             </p>
             <p style={{ fontSize: "0.85rem", color: "rgba(255,255,255,0.75)", display: "flex", gap: 8, marginBottom: 8 }}>
               <WhatsAppIcon size={16} color="#F7CAD0" />
-              <a href="https://wa.me/529221589055" target="_blank" rel="noopener noreferrer">
+              <a href="https://wa.me/529221589055?text=Hola%2C%20Coraz%C3%B3n%20de%20Vainilla.%20Me%20gustar%C3%ADa%20hacer%20un%20pedido%20y%20recibir%20informaci%C3%B3n%20sobre%20sus%20productos." target="_blank" rel="noopener noreferrer">
                 922 158 9055
               </a>
             </p>

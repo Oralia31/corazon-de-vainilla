@@ -60,7 +60,7 @@ export default function AboutUs() {
           <p>Escríbenos y separa tus postres para tu evento,<br />reunión o antojo del día.</p>
           <a
             className="about-whatsapp-button"
-            href="https://wa.me/529221589055"
+            href="https://wa.me/529221589055?text=Hola%2C%20Coraz%C3%B3n%20de%20Vainilla.%20Me%20gustar%C3%ADa%20hacer%20un%20pedido%20y%20recibir%20informaci%C3%B3n%20sobre%20sus%20productos."
             target="_blank"
             rel="noopener noreferrer"
           >

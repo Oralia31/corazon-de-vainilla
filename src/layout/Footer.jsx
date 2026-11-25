@@ -159,7 +159,6 @@ export default function Footer({ onNavigate }) {
           <p>
             © {new Date().getFullYear()} Corazón de Vainilla Repostería Artesanal. Todos los derechos reservados.
             <br />
-            Sitio web demostrativo desarrollado con React y CSS3 • Proyecto de Comercio Electrónico Simulado.
           </p>
         </div>
       </div>
